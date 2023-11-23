@@ -1,4 +1,4 @@
-100kg 클럽 책스터디 
+# 100kg 클럽 책스터디 
 
 ![image](https://github.com/100kg-club/book-study/assets/54737136/5e89e8f1-e5dd-4997-9925-cb7df293139f)
 
